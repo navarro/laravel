@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Marcos Navarro</div>
+{{$teste}}
             </div>
         </div>
     </body>
