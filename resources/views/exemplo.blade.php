@@ -4,7 +4,7 @@
     </h1>
 <ul>
 @foreach($categories as $category)
-    <li>{{ $category->name }} e {{ $category->description }}</li>
+    <li>{{ $category->name }} ====> Descrição {{ $category->description }}</li>
 
 @endforeach
 </ul>
